@@ -1,0 +1,44 @@
+[
+      {
+            "username": "aarti",
+            "phoneNo": 1234567890,
+            "Age": 20,
+            "password": "Aarti@123"
+      },
+      {
+            "username": "saloni",
+            "phoneNo": 9876543210,
+            "Age": 21,
+            "password": "Saloni#21"
+      },
+      {
+            "username": "alpana",
+            "phoneNo": 45678904321,
+            "Age": 22,
+            "password": "Appi*123"
+      },
+      {
+            "username": "muskan",
+            "phoneNo": 1234576543,
+            "Age": 21,
+            "password": "Musu#89"
+      },
+      {
+            "username": "sonam",
+            "phoneNo": 12345678,
+            "Age": 21,
+            "password": "Sonma#123"
+      },
+      {
+            "username": "mayuri",
+            "phoneNo": 7709511640,
+            "Age": 20,
+            "password": "mayuri@123"
+      },
+      {
+            "username": "shruti",
+            "phoneNo": 8459610579,
+            "Age": 17,
+            "password": "shruti@123"
+      }
+]
